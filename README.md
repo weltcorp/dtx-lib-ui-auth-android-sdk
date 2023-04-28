@@ -67,7 +67,6 @@ class YourCustomApplication: Application() {
 ```kotlin
 fun login() {
     WeltDtxAuth.login(
-        YOUR_ACTIVITY as ComponentActivity,
         object : LoginListener {
             override fun onSuccess(user: LoginUser) {
                 // Do something on success with user
