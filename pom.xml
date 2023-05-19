@@ -6,5 +6,5 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.weltcorp.dtx.lib</groupId>
    <artifactId>ui-auth</artifactId>
-   <version>0.0.5</version>
+   <version>0.0.6</version>
 </project>
