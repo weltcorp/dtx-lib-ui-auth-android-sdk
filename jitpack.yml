@@ -1,4 +1,4 @@
-define: &version 0.0.8
+define: &version 0.0.9
 
 install: 
   - FILE="-Dfile=ui-auth.aar"
